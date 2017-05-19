@@ -1,3 +1,6 @@
+Fix for LENS plus stack
+Start character potions HP/MP from x20 to x99
+Inserting mounts episode 3
 We dont fixed start new character items yet
 We dont fixed yet entrace in human cave
 Prayers stones level 4+ to be added
