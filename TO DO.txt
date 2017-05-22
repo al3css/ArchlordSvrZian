@@ -1,6 +1,0 @@
-We dont fixed yet entrace in human cave
-Testing combos
-Testing archlord skills
-Fixing other teleport locations for the new zones
-Working and releasing episode 1 original INI folder and CONSOLES
-Release a patch for episode 1 client,episode 3 client
