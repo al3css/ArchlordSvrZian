@@ -20,7 +20,7 @@ Username: alef
 Password: password
 Host: account
 
-create user alef IDENTIFIED BY password;
+create user alef IDENTIFIED BY alef123;
 
 -- Grant/Revoke role privileges
 grant connect to alef;
@@ -45,14 +45,14 @@ exit;    <---- SQL plus will close now after this command
 After this you can connect to the database now with the following username and password using navicat:
 
 Username: alef
-Password: password
+Password: alef123
 SID: account
 
 
 Edit the serverconfig table :
 At the WORLD tab give for each line your server name (ex:Bruhmart) , then change your ip.
 Then DBUSER + LOGDBUSER attribute is alef
-     sections, DBPWD + LOGDBPWD attribute is password
+     sections, DBPWD + LOGDBPWD attribute is alef123
      sections, DBDSN + LOGDBDSN attribute is account
      
 Edit the RPGWT table:
