@@ -40,8 +40,6 @@ grant dba to alef;
 After grant remember to restore database and procedures tables with the following command(put the SQL folder in Local Disk C to succeed restoring the database) :
 
 @c:\sql\account.sql;
-@C:\RPGWT.sql;
-@C:\SERVERCONFIG.sql;
 exit;    <---- SQL plus will close now after this command
 
 After this you can connect to the database now with the following username and password using navicat:
