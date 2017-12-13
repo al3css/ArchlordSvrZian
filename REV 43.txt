@@ -1,4 +1,21 @@
-This REPACK was in rev 29 when was moved on a new GIT because we got problems with commiting the new updates.
+
+
+DECEMBER UPDATE V43 - NEW GIT UPDATED
+
+If you wanted to use episode 1 use the episode 1 consoles and modifications for episode 1 its maded in AE1(ini folder for episode 1)
+If you wanted to use episode 3 use the episode 3 consoles and modifications for episode 3 its maded in AE3(ini folder for episode 3)
+
+Restore the alef.sql database file because we did few changes in consoles+ serverconfig.
+
+
+Serverconfig now for episode 1 its serverconf1 - config the servername+ip for episode 1 
+Serverconfig now for episode 3 its serverconf3 - config the servername+ip for episode 3
+
+New gm command for creating items in episode 1 : /itemid [itemidhere]
+
+
+
+
 
 9 MAY 2017 - moving to a new GIT
 
@@ -71,3 +88,4 @@ Mounts episode 3 works doesnt seems to be visible(client packets - episode  3 pr
 Fixed stack for mp/hp potions and arrows
 Fixed itemlottery prize
 Cleaned the unuseful items from serverfiles
+
